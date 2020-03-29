@@ -28,6 +28,9 @@ III. DANH SÁCH BÀI HỌC
 	  + npm audit fix
 	- Trong package.json báo như sau là ok ("redux": "^4.0.5")
 
+32. Redux Căn Bản P1
+	- Tạo các thành phần Redux
+	- Code tất cả trên 1 file demo.js
 
 
 
