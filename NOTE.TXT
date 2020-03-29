@@ -1,0 +1,38 @@
+﻿﻿REACTJS-Redux-Basic
+
+I. THÔNG TIN
+- Redux cơ bản
+- Xuất bản: 08-10-2017
+- https://www.youtube.com/watch?v=bZwMFYKeSGY&list=PLJ5qtRQovuEOoKffoCBzTfvzMTTORnoyp&index=31
+
+
+II. Tải project từ github.com về và chạy
+ - B1: Kiểm tra máy đã có nodejs chưa
+     + Mở cửa sổ cmd -> node -v  (có thể chạy ở bất cứ đâu để kiểm tra)
+     + Nếu chưa cài thì tải về và cài đặt bình thường:
+     + https://nodejs.org/en/
+ - B2: Tải modules về
+     + Mặc định git không tải lên các gói modules nên cần tải lại cho project
+     + Vào trong project -> Shift + chuột phải -> Open PowerShell Window Here
+     + npm install
+ - B3: Chạy Project
+     + npm start
+
+
+III. DANH SÁCH BÀI HỌC
+31-33:
+31. Giới Thiệu Redux
+	- Dựng source ban đầu từ bài 29. Project 2
+	- Tải thêm redux:
+	  + npm install redux --save
+	  + npm audit fix
+	- Trong package.json báo như sau là ok ("redux": "^4.0.5")
+
+
+
+
+
+
+
+
+
