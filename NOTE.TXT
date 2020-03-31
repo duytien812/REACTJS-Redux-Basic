@@ -32,7 +32,8 @@ III. DANH SÁCH BÀI HỌC
 	- Tạo các thành phần Redux
 	- Code tất cả trên 1 file demo.js
 
-
+33. Redux Căn Bản P2
+	- Chia lại story, reducer, state thành các file riêng cho dễ quản lý và mở rộng
 
 
 
